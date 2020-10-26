@@ -1,0 +1,59 @@
+.btn-group > .btn:nth-child(3) {
+    border-radius: 0%;
+}
+
+.btn-group > .btn-light:first-child {
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+}  
+
+.btn-group-lg > .btn, .btn-lg {
+    border-radius: 14px;
+}
+
+.btn-light {
+    background-color: white;
+    border-color: white;
+    margin-top: 20rem;
+    border-radius: 50px;
+    margin-left: -1.5rem;
+}
+
+.btn-primary {
+    background-color: #7AC7FF;
+    border-color: #7AC7FF;
+    margin-top: 20rem;
+    margin-left: 1.5rem;
+    
+}
+
+
+#Logo {
+    width: 300px;
+    margin-top: 30px;
+    
+}
+
+#search {
+    width: 110px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    
+}
+
+body {
+    background-image: url(assets/chicken-alfredo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+button img {
+    width: 150px;
+}
+
+form {
+    padding-left: 10px;
+}
